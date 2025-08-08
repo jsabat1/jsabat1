@@ -3,19 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsabat1&label=Profile%20views&color=0e75b6&style=flat" alt="jsabat1" /> </p>
 
-- 🔭 Currently working on **this and that**
+- 🔭 Currently working on: **this and that**
 
-- 🌱 Currently learning **C++ and Unity**
+- 🌱 Currently learning: **C++ and Unity**
 
-- 💬 Ask me about **anything concerning my repos**
+- 💬 Ask me about: **anything concerning my repos**
 
-- 📫 How to reach me **Discord: @c00bus**
+- 📫 How to reach me: **Discord: @c00bus**
 
-- ⚡ Fun fact **I'm a master tier league player**
+- ⚡ Fun fact: **I'm a master tier league player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/819589003874402314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="c00bus" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
