@@ -1,9 +1,7 @@
-<h1 align="center">Hiya, I'm Kubuś :3</h1>
+<h1 align="center">Hiya, I'm Kubuś</h1>
 <h3 align="center">CS student trying to get through uni.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsabat1&label=Profile%20views&color=0e75b6&style=flat" alt="jsabat1" /> </p>
-
-- 🔭 Currently working on: **this and that**
 
 - 🌱 Currently learning: **C++ and Unity**
 
