@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsabat1&label=Profile%20views&color=0e75b6&style=flat" alt="jsabat1" /> </p>
 
-- 🌱 Currently learning: **C++ and Unity**
+- 🌱 Currently learning: **C++ and Swift**
 
 - 💬 Ask me about: **anything concerning my repos**
 
