@@ -7,7 +7,7 @@
 
 - Ask me about: **anything concerning my repos**
 
-- How to reach me: **Discord: @c00bus**
+- How to reach me: ****
 
 - Fun fact: **I'm a master tier league player**
 
